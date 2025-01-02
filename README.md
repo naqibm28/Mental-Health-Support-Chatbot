@@ -1,2 +1,5 @@
 # Mental-Health-Support-Chatbot
-Made using Python and HTML
+Get support for your mental health instantly.
+
+A friendly chatbot that helps users with their mental health, including advice and hotlines for additional support. 
+Made using Python and HTML.
