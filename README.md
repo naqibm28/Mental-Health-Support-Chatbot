@@ -2,4 +2,5 @@
 Get support for your mental health instantly.
 
 A friendly chatbot that helps users with their mental health, including advice and hotlines for additional support. 
-Made using Python and HTML.
+Chatbot made using JavaScript and Python.
+Website designed using HTML and CSS.
